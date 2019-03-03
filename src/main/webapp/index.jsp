@@ -557,7 +557,7 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-body">
-                        <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-la mesmo assim, sinta-se a vontade, clicando <a href="http://interfacefastfood.herokuapp.com/index">Aqui</a></p>
+                        <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acess�-la mesmo assim, sinta-se a vontade, clicando <a href="http://interfacefastfood.herokuapp.com/index">Aqui</a></p>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                         </div>

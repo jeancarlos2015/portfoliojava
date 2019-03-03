@@ -1,0 +1,10 @@
+language: java
+dist: trusty
+sudo: false
+jdk:
+  - oraclejdk8
+deploy:
+ provider: heroku
+ api-key:
+  secure: $APP_KEY
+ app: interfacefastfood

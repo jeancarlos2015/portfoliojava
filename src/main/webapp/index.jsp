@@ -459,7 +459,7 @@
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a href="https://github.com/jeancarlos2015/projetoLESWeb/wiki">Código do Fast Food</a>
+                            <a href="https://github.com/jeancarlos2015/projetoLESWeb/wiki">Fast Food</a>
                         </p>
                     </div>
                     <div class="col-lg-4 mr-auto text-center">
@@ -476,7 +476,7 @@
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a href="https://github.com/jeancarlos2015/projeto_portfolio">Código do Portfólio</a>
+                            <a href="https://github.com/jeancarlos2015/projeto_portfolio">Portfólio</a>
                         </p>
                     </div>
 
@@ -508,18 +508,18 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-4 mr-auto text-center">
+<!--                    <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a href="https://github.com/jeancarlos2015/interfacefastfood">Código Fast Food Luto</a>
+                            <a href="https://github.com/jeancarlos2015/interfacefastfood">Fast Food Luto</a>
                         </p>
-                    </div>
+                    </div>-->
 
                     <div class="col-lg-4 mr-auto text-center">
 
                         <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a onclick="alertar_luto()" style="cursor:pointer;" class="text-danger">Código Fast Food</a>
+                            <a onclick="alertar_luto()" style="cursor:pointer;" class="text-danger">Fast Food</a>
                         </p>
                     </div>
 

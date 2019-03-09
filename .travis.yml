@@ -7,4 +7,4 @@ deploy:
  provider: heroku
  api-key:
   secure: $APP_KEY
- app: interfacefastfood
+ app: portfolio2019

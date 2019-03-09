@@ -495,10 +495,7 @@
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            Sistema RPN, caso queira acessar-lo, favor
-                            colocar este link no endereço do navegador:
-                            http://prototiposistema.herokuapp.com/
-                            
+                            Sistema RPN, acessar o link: http://prototiposistema.herokuapp.com/
                         </p>
                     </div>
 

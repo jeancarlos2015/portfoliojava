@@ -419,8 +419,6 @@
                    href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">Currículo Analista/Programador</a>
                 <a class="btn btn-light btn-xl sr-button"
                    href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
-                <a class="btn btn-light btn-xl sr-button"
-                   href="http://lattes.cnpq.br/4286635309038223">Currículo Lattes</a>
             </div>
             <br>
             <br>
@@ -485,7 +483,7 @@
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a href="http://portfolio2019.herokuapp.com/">Portfólio</a>
+                            <a href="https://portfolio2019.herokuapp.com/">Portfólio</a>
                         </p>
                     </div>
 
@@ -497,7 +495,10 @@
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a href="http://prototiposistema.herokuapp.com/">Sistema RPN</a>
+                            Sistema RPN, caso queira acessar-lo, favor
+                            colocar este link no endereço do navegador:
+                            http://prototiposistema.herokuapp.com/
+                            
                         </p>
                     </div>
 
@@ -540,7 +541,7 @@
                     <div class="modal-body">
                         <p>
                             Ao acessar essa aplicação haverá situações em que haja um erro, isto acontece por que essa aplicação possui uma arquitetura diferente das outras, é uma aplicação cuja arquitetura é orientada microserviços, isto quer dizer que essa aplicação depende de outras API'S para funcionar e quando uma das API's demora a responder é provável que a aplicação responda na forma de um erro, neste caso basta atualizar a página que a mesma vai funcionar normalmente. Para acessar a aplicação clique
-                            <a href="http://interfacegerentefornecedor.herokuapp.com/login">  Aqui.</a>
+                            <a href="https://interfacegerentefornecedor.herokuapp.com/login">  Aqui.</a>
                             <br>
                         </p>
                         <div class="modal-footer">
@@ -570,7 +571,7 @@
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-body">
-                        <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-la mesmo assim, sinta-se a vontade, clicando <a href="http://interfacefastfood.herokuapp.com/index">Aqui</a></p>
+                        <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-la mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                         </div>

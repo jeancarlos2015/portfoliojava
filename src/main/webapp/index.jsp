@@ -231,7 +231,7 @@
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
                             <h3 class="mb-4">Desenvolvedor FullStack - PHP </h3>
-                            <p class="text-muted mb-2">CRECI ? Conselho Regional De Corretores De Imóveis ? 13 Região </p>
+                            <p class="text-muted mb-2">CRECI -  Conselho Regional De Corretores De Imóveis 13 Região </p>
                             <p class="text-muted mb-2">SISTEMA SPT CRECI-ES</p>
                             <p class="text-muted mb-2">Duração: 1 ano</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
@@ -288,7 +288,7 @@
                             <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
                             <h3 class="mb-4">Monitor de Informática/Laboratótio </h3>
 
-                            <p class="text-muted mb-2">SEDU ? Secretaria de Educação do Espírito Santo</p>
+                            <p class="text-muted mb-2">SEDU - Secretaria de Educação do Espírito Santo</p>
                             <p class="text-muted mb-2">Duração: 1,4 anos</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
                                 <li>Tipo:Estágio</li>

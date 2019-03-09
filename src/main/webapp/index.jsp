@@ -306,7 +306,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto text-center">
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#tecnologias">Tecnologias</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#tecnologias">Tecnologias que tenho algum conhecimento/Experiência</a>
                     </div>
                 </div>
             </div>
@@ -321,12 +321,12 @@
                             <h3 class="mb-4">Stack Java</h3>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
                                 <li>Spring Boot</li>
-                                <li>Spring Tool Suit / Netbeans</li>
+                                <li>Spring Tool Suit/Netbeans/Eclipse/Intellij</li>
                                 <li>Maven 3.0</li>
-                                <li>Heroku</li>
-                                <li>Travis-CI</li>
-                                <li>Sonarqube</li>
-                                <li>GitKraquen</li>
+                                <li>Heroku - Ambiente de deploying</li>
+                                <li>Travis-CI - Integração Contínua</li>
+                                <li>Sonarqube - Análise de qualidade do código</li>
+                                <li>GitKraquen - Controle de Versionamento</li>
                                 <li>Mysql/Postgres/Oracle</li>
                             </ul>
                         </div>
@@ -336,11 +336,11 @@
                             <i class="fas fa-4x fa-paper-plane text-primary mb-3 sr-icon-2"></i>
                             <h3 class="mb-4">Stack PHP</h3>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Laravel 5.6+</li>
+                                <li>Laravel 5.6 ou superior</li>
                                 <li>PHPStorm</li>
                                 <li>Composer</li>
                                 <li>Heroku</li>
-                                <li>Travis-CI</li>
+                                <li>Travis-CI - Integração contínua</li>
                                 <li>Vagrant</li>
                                 <li>GitKraquen</li>
                                 <li>Mysql/Postgres/Oracle</li>

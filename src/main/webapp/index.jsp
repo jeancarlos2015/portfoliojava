@@ -502,7 +502,7 @@
                     <div class="col-lg-4 mr-auto text-center">
                         <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                         <p>
-                            <a href="http://prototiposistema.herokuapp.com/">Sistema SRPN</a>
+                            <a href="http://prototiposistema.herokuapp.com/">Sistema RPN</a>
                         </p>
                         
                         

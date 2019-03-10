@@ -72,7 +72,14 @@
                             <b>
                                 <li>Bacharel de Sistema de Informação pelo IFES - Instituto Federal De Ciência e
                                     Tecnologia (Campus Serra-ES, 2018).
+                                    <ul>
+                                        <li>Conhecimentos básicos em Metodologias Ágeis</li>
+                                        <li>Conhecimentos básicos de TDD e BDD</li>
+                                        <li>Conhecimentos básicos de Arquitetura Orientada à microserviços</li>
+                                        <li>Conhecimentos básicos de Integração Contínua e Testes automatizados</li>
+                                    </ul>
                                 </li>
+                                
                             </b>
 
                         </ul>
@@ -278,7 +285,7 @@
                                 <li>Atividades de migração de tela (Delphi para Java EE)</li>
                                 <li>Atividades de manutenção de código</li>
                                 <li>Atividades de desenvolvimento backend em geral</li>
-                                <li>Desenvolvimento orientado a testes</li>
+                                
                             </ul>
                         </div>
                     </div>

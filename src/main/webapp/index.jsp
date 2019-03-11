@@ -423,7 +423,7 @@
             <div class="container text-center">
                 <h2 class="mb-4">Currículo e outros</h2>
                 <a class="btn btn-light btn-xl sr-button"
-                   href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">Currículo Analista/Programador</a>
+                   href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">Currículo Programador</a>
                 <a class="btn btn-light btn-xl sr-button"
                    href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
             </div>

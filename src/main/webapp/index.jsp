@@ -237,7 +237,7 @@
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
-                            <h3 class="mb-4">Desenvolvedor FullStack - PHP </h3>
+                            <h3 class="mb-4">Desenvolvedor PHP </h3>
                             <p class="text-muted mb-2">CRECI -  Conselho Regional De Corretores De Imóveis 13 Região </p>
                             <p class="text-muted mb-2">SISTEMA SPT CRECI-ES</p>
                             <p class="text-muted mb-2">Duração: 1 ano</p>

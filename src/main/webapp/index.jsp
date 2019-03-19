@@ -245,6 +245,7 @@
                                 <li>Tipo:Estágio</li>
                                 <li>Atividades de Migração de tela (Java para PHP)</li>
                                 <li>Atividades de Infra</li>
+                                <li>Experiência com Java JSF</li>
                                 <li>Desenvolvimento de funcionalidades</li>
                                 <li>Manutenção de código</li>
                                 <li>Atividades de Suporte no sistema</li>

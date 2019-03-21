@@ -352,6 +352,7 @@
                                 <li>Vagrant</li>
                                 <li>GitKraquen</li>
                                 <li>Mysql/Postgres/Oracle</li>
+                                <li>Laradock</li>
                             </ul>
 
                         </div>

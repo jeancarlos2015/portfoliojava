@@ -79,7 +79,7 @@
                                         <li>Conhecimentos básicos de Integração Contínua e Testes automatizados</li>
                                     </ul>
                                 </li>
-                                
+
                             </b>
 
                         </ul>
@@ -286,7 +286,7 @@
                                 <li>Atividades de migração de tela (Delphi para Java EE)</li>
                                 <li>Atividades de manutenção de código</li>
                                 <li>Atividades de desenvolvimento backend em geral</li>
-                                
+
                             </ul>
                         </div>
                     </div>
@@ -308,305 +308,323 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
+                        <h3 class="mb-4"> Analista Desenvolvedor  </h3>
 
-            </div>
-            <br>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center">
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#tecnologias">Tecnologias que tenho algum conhecimento/Experiência</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="tecnologias">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="service-box mt-5 mx-auto">
-                            <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
-                            <h3 class="mb-4">Stack Java</h3>
-                            <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Spring Boot</li>
-                                <li>Spring Tool Suit/Netbeans/Eclipse/Intellij</li>
-                                <li>Maven 3.0</li>
-                                <li>Heroku - Ambiente de deploying</li>
-                                <li>Travis-CI - Integração Contínua</li>
-                                <li>Sonarqube - Análise de qualidade do código</li>
-                                <li>GitKraquen - Controle de Versionamento</li>
-                                <li>Mysql/Postgres/Oracle</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="service-box mt-5 mx-auto">
-                            <i class="fas fa-4x fa-paper-plane text-primary mb-3 sr-icon-2"></i>
-                            <h3 class="mb-4">Stack PHP</h3>
-                            <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Laravel 5.6 ou superior</li>
-                                <li>PHPStorm</li>
-                                <li>Composer</li>
-                                <li>Heroku</li>
-                                <li>Travis-CI - Integração contínua</li>
-                                <li>Vagrant</li>
-                                <li>GitKraquen</li>
-                                <li>Mysql/Postgres/Oracle</li>
-                                <li>Laradock</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="service-box mt-5 mx-auto">
-                            <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
-                            <h3 class="mb-4">Stack C#.NET</h3>
-                            <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Framework .NET</li>
-                                <li>Microsoft Visual Studio Web Developer</li>
-                                <li>Asp.net</li>
-                                <li>MS SQL Server</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="service-box mt-5 mx-auto">
-                            <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
-                            <h3 class="mb-4">Stack VB.NET</h3>
-                            <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Framework .NET</li>
-                                <li>Microsoft Visual Studio Desktop</li>
-                                <li>MS SQL Server</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="service-box mt-5 mx-auto">
-                            <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
-                            <h3 class="mb-4">Outros</h3>
-                            <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Scala</li>
-                                <li>Pascal/Delphi</li>
-                                <li>VBA</li>
-                                <li>Assembly</li>
-                                <li>C/C++</li>
-                                <li>Python</li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="service-box mt-5 mx-auto">
-                            <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
-                            <h3 class="mb-4">Tecnologias FrontEnd</h3>
-                            <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>HTML5</li>
-                                <li>Bootstrap</li>
-                                <li>AngularJS</li>
-                                <li>Vuejs</li>
-                                <li>JavaScript</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <hr>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center">
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#curriculo">Curriculo e outras Informações</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="bg-dark text-white" id="curriculo">
-            <div class="container text-center">
-                <h2 class="mb-4">Currículo e outros</h2>
-                <a class="btn btn-light btn-xl sr-button"
-                   href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">Currículo Programador</a>
-                <a class="btn btn-light btn-xl sr-button"
-                   href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
-            </div>
-            <br>
-            <br>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center">
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#github">Github e Aplicações</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="github">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center">
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#page-top">Início</a>
-                    </div>
-                </div>
-            </div>
-            <br>
-            <br>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-justify">
-                        <h2 class="section-heading text-center">Github e Link das aplicações</h2>
-                        <hr class="my-4">
-                        <p class="mb-5">Alguns projetos como RPN, CRECI-ES são privados e portanto o código de ambos não
-                            poderão ser analisados e o do Conexos ERP Web é de propriedade da Conexos Ltda Soluções. No entanto,
-                            poderei mostrar o código do fast-food e o link das aplicações (Com exceção do ERP CONEXOS Web) onde
-                            eu sou colaborador atualmente, segue os links abaixo</p>
-                    </div>
-                </div>
-
-
-                <div class="row">
-
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="https://github.com/jeancarlos2015/projetoLESWeb/wiki">Fast Food</a>
-                        </p>
-                    </div>
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a onclick="alertar()" style="cursor:pointer;" class="text-danger">Fast Food</a>
-                        </p>
-                    </div>
-
-                </div>
-
-
-                <div class="row">
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="https://github.com/jeancarlos2015/projeto_portfolio">Portfólio</a>
-                        </p>
-                    </div>
-
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="https://portfolio2019.herokuapp.com/">Portfólio</a>
-                        </p>
-                    </div>
-
-                </div>
-
-
-                <div class="row">
-
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="http://prototiposistema.herokuapp.com/">Sistema RPN</a>
-                        </p>
-                        
-                        
-                    </div>
-
-                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="https://area-restrita.crecies.gov.br/">Sistema CRECI-ES</a>
-                        </p>
-                    </div>
-                </div>
-
-                <div class="row">
-<!--                    <div class="col-lg-4 mr-auto text-center">
-                        <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a href="https://github.com/jeancarlos2015/interfacefastfood">Fast Food Luto</a>
-                        </p>
-                    </div>-->
-
-                    <div class="col-lg-4 mr-auto text-center">
-
-                        <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
-                        <p>
-                            <a onclick="alertar_luto()" style="cursor:pointer;" class="text-danger">Fast Food</a>
-                        </p>
-                    </div>
-
-                </div>
-            </div>
-
-
-        </section>
-
-        <div class="modal fade" id="modal-acesso">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h1 class="text-danger">AVISO</h1>
-                    </div>
-                    <div class="modal-body">
-                        <p>
-                            Ao acessar essa aplicação haverá situações em que haja um erro, isto acontece por que essa aplicação possui uma arquitetura diferente das outras, é uma aplicação cuja arquitetura é orientada microserviços, isto quer dizer que essa aplicação depende de outras API'S para funcionar e quando uma das API's demora a responder é provável que a aplicação responda na forma de um erro, neste caso basta atualizar a página que a mesma vai funcionar normalmente. Para acessar a aplicação clique
-                            <a href="https://interfacegerentefornecedor.herokuapp.com/login">  Aqui.</a>
-                            <br>
-                        </p>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
-                        </div>
+                        <p class="text-muted mb-2">Phidelis Tecnologia</p>
+                        <p class="text-muted mb-2">Atualmente</p>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>
+                                Atividades de desenvolvimento em C#
+                                <ul>
+                                    <li>Resolução de bugs</li>
+                                </ul>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#tecnologias">Tecnologias que tenho algum conhecimento/Experiência</a>
+                </div>
+            </div>
+        </div>
+    </section>
 
-        <div class="modal fade" id="modal-apresentacao">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <img class="d-flex mr-3 rounded-circle" src="resources/portfolio/img/portfolio/fullsize/9.jpg" alt=""
-                             width="150">
-                        <p>Oi!, meu nome é Jean, seja bem vindo!!!</p>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
-                        </div>
+    <section id="tecnologias">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
+                        <h3 class="mb-4">Stack Java</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>Spring Boot</li>
+                            <li>Spring Tool Suit/Netbeans/Eclipse/Intellij</li>
+                            <li>Maven 3.0</li>
+                            <li>Heroku - Ambiente de deploying</li>
+                            <li>Travis-CI - Integração Contínua</li>
+                            <li>Sonarqube - Análise de qualidade do código</li>
+                            <li>GitKraquen - Controle de Versionamento</li>
+                            <li>Mysql/Postgres/Oracle</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-paper-plane text-primary mb-3 sr-icon-2"></i>
+                        <h3 class="mb-4">Stack PHP</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>Laravel 5.6 ou superior</li>
+                            <li>PHPStorm</li>
+                            <li>Composer</li>
+                            <li>Heroku</li>
+                            <li>Travis-CI - Integração contínua</li>
+                            <li>Vagrant</li>
+                            <li>GitKraquen</li>
+                            <li>Mysql/Postgres/Oracle</li>
+                            <li>Laradock</li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
+                        <h3 class="mb-4">Stack C#.NET</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>Framework .NET</li>
+                            <li>Microsoft Visual Studio Web Developer</li>
+                            <li>Asp.net</li>
+                            <li>MS SQL Server</li>
+                            <li>Azure DevOps</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
+                        <h3 class="mb-4">Stack VB.NET</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>Framework .NET</li>
+                            <li>Microsoft Visual Studio Desktop</li>
+                            <li>MS SQL Server</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
+                        <h3 class="mb-4">Outros</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>Scala</li>
+                            <li>Pascal/Delphi</li>
+                            <li>VBA</li>
+                            <li>Assembly</li>
+                            <li>C/C++</li>
+                            <li>Python</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
+                        <h3 class="mb-4">Tecnologias FrontEnd</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>HTML5</li>
+                            <li>Bootstrap</li>
+                            <li>AngularJS</li>
+                            <li>Vuejs</li>
+                            <li>JavaScript</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <hr>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#curriculo">Curriculo e outras Informações</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-dark text-white" id="curriculo">
+        <div class="container text-center">
+            <h2 class="mb-4">Currículo e outros</h2>
+            <a class="btn btn-light btn-xl sr-button"
+               href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">Currículo Programador</a>
+            <a class="btn btn-light btn-xl sr-button"
+               href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
+        </div>
+        <br>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#github">Github e Aplicações</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="github">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-center">
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#page-top">Início</a>
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto text-justify">
+                    <h2 class="section-heading text-center">Github e Link das aplicações</h2>
+                    <hr class="my-4">
+                    <p class="mb-5">Alguns projetos como RPN, CRECI-ES são privados e portanto o código de ambos não
+                        poderão ser analisados e o do Conexos ERP Web é de propriedade da Conexos Ltda Soluções. No entanto,
+                        poderei mostrar o código do fast-food e o link das aplicações (Com exceção do ERP CONEXOS Web) onde
+                        eu sou colaborador atualmente, segue os links abaixo</p>
+                </div>
+            </div>
+
+
+            <div class="row">
+
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="https://github.com/jeancarlos2015/projetoLESWeb/wiki">Fast Food</a>
+                    </p>
+                </div>
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a onclick="alertar()" style="cursor:pointer;" class="text-danger">Fast Food</a>
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="https://github.com/jeancarlos2015/projeto_portfolio">Portfólio</a>
+                    </p>
+                </div>
+
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="https://portfolio2019.herokuapp.com/">Portfólio</a>
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="row">
+
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="http://prototiposistema.herokuapp.com/">Sistema RPN</a>
+                    </p>
+
+
+                </div>
+
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="https://area-restrita.crecies.gov.br/">Sistema CRECI-ES</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <!--                    <div class="col-lg-4 mr-auto text-center">
+                                        <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
+                                        <p>
+                                            <a href="https://github.com/jeancarlos2015/interfacefastfood">Fast Food Luto</a>
+                                        </p>
+                                    </div>-->
+
+                <div class="col-lg-4 mr-auto text-center">
+
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a onclick="alertar_luto()" style="cursor:pointer;" class="text-danger">Fast Food</a>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+
+    </section>
+
+    <div class="modal fade" id="modal-acesso">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="text-danger">AVISO</h1>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Ao acessar essa aplicação haverá situações em que haja um erro, isto acontece por que essa aplicação possui uma arquitetura diferente das outras, é uma aplicação cuja arquitetura é orientada microserviços, isto quer dizer que essa aplicação depende de outras API'S para funcionar e quando uma das API's demora a responder é provável que a aplicação responda na forma de um erro, neste caso basta atualizar a página que a mesma vai funcionar normalmente. Para acessar a aplicação clique
+                        <a href="https://interfacegerentefornecedor.herokuapp.com/login">  Aqui.</a>
+                        <br>
+                    </p>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="modal fade" id="modal-luto">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-la mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
-                        </div>
+    <div class="modal fade" id="modal-apresentacao">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <img class="d-flex mr-3 rounded-circle" src="resources/portfolio/img/portfolio/fullsize/9.jpg" alt=""
+                         width="150">
+                    <p>Oi!, meu nome é Jean, seja bem vindo!!!</p>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Bootstrap core JavaScript -->
-        <script src="resources/portfolio/vendor/jquery/jquery.min.js"></script>
-        <script src="resources/portfolio/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    </div>
 
-        <!-- Plugin JavaScript -->
-        <script src="resources/portfolio/vendor/jquery-easing/jquery.easing.min.js"></script>
-        <script src="resources/portfolio/vendor/scrollreveal/scrollreveal.min.js"></script>
-        <script src="resources/portfolio/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <div class="modal fade" id="modal-luto">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-la mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JavaScript -->
+    <script src="resources/portfolio/vendor/jquery/jquery.min.js"></script>
+    <script src="resources/portfolio/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-        <!-- Custom scripts for this template -->
-        <script src="resources/portfolio/js/creative.min.js"></script>
-        <script>
-                                function alertar() {
-                                    $('#modal-acesso').modal('show');
-                                }
-                                function alertar_luto() {
-                                    $('#modal-luto').modal('show');
-                                }
-                                $('#modal-apresentacao').modal('show');
-        </script>
-    </body>
+    <!-- Plugin JavaScript -->
+    <script src="resources/portfolio/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="resources/portfolio/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="resources/portfolio/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="resources/portfolio/js/creative.min.js"></script>
+    <script>
+                            function alertar() {
+                                $('#modal-acesso').modal('show');
+                            }
+                            function alertar_luto() {
+                                $('#modal-luto').modal('show');
+                            }
+                            $('#modal-apresentacao').modal('show');
+    </script>
+</body>
 
 </html>

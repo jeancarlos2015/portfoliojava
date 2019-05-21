@@ -146,6 +146,8 @@
                             </div>
                         </a>
                     </div>
+                    
+                    <!--
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/6.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/6.jpg" alt="">
@@ -171,7 +173,9 @@
                             </div>
                         </a>
                     </div>
-
+                    -->
+                    
+                    
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/7.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/7.jpg" alt="">

@@ -319,7 +319,7 @@
                         <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
                         <h3 class="mb-4"> Analista Desenvolvedor </h3>
 
-                        <p class="text-muted mb-2">Phidelis Tecnologia</p>
+                        <p class="text-muted mb-2">Phidélis Tecnologia</p>
                         <p class="text-muted mb-2">Atualmente</p>
                         <ul class="text-muted mb-0 text-left" style="font-size: small">
                             <li>
@@ -333,9 +333,9 @@
                                     <li>
                                     Atividades
                                         <ul>
-                                            <li>Migracao de Telas</li>
+                                            <li>Migração de Telas</li>
                                             <li>Melhorias</li>
-                                            <li>Manutencao</li>
+                                            <li>Manutenção</li>
                                             <li>Atividades de desenvolvimento em geral</li>
                                         </ul>
                                     </li>

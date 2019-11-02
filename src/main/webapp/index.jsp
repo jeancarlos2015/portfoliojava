@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>PortfÛlio</title>
+        <title>Portf√≥lio</title>
 
         <!-- Bootstrap core CSS -->
         <link href="resources/portfolio/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,17 +31,17 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">PortfÛlio</a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">Portf√≥lio</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#page-top">InÌcio</a>
+                            <a class="nav-link js-scroll-trigger" href="#page-top">In√≠cio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#experiencias">ExperiÍncias</a>
+                            <a class="nav-link js-scroll-trigger" href="#experiencias">Experi√™ncias</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link js-scroll-trigger" href="#portfolio">Projetos</a>
@@ -65,18 +65,18 @@
                 <div class="row">
                     <div class="col-lg-10 mx-auto">
                         <h1 class="text-uppercase">
-                            <strong>Bem Vindo ao PortfÛlio de Jean Carlos</strong>
+                            <strong>Bem Vindo ao Portf√≥lio de Jean Carlos</strong>
                         </h1>
                         <hr>
                         <ul style="font-size: small;" class="text-left">
                             <b>
-                                <li>Bacharel de Sistema de InformaÁ„o pelo IFES - Instituto Federal De CiÍncia e
+                                <li>Bacharel de Sistema de Informa√ß√£o pelo IFES - Instituto Federal De Ci√™ncia e
                                     Tecnologia (Campus Serra-ES, 2018).
                                     <ul>
-                                        <li>Conhecimentos b·sicos em Metodologias ¡geis</li>
-                                        <li>Conhecimentos b·sicos de TDD e BDD</li>
-                                        <li>Conhecimentos b·sicos de Arquitetura Orientada ‡ microserviÁos</li>
-                                        <li>Conhecimentos b·sicos de IntegraÁ„o ContÌnua e Testes automatizados</li>
+                                        <li>Conhecimentos b√°sicos em Metodologias √Ågeis</li>
+                                        <li>Conhecimentos b√°sicos de TDD e BDD</li>
+                                        <li>Conhecimentos b√°sicos de Arquitetura Orientada √† microservi√ßos</li>
+                                        <li>Conhecimentos b√°sicos de Integra√ß√£o Cont√≠nua e Testes automatizados</li>
                                     </ul>
                                 </li>
 
@@ -103,10 +103,10 @@
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        AcadÍmico
+                                        Acad√™mico
                                     </div>
                                     <div class="project-name">
-                                        RPN - RepositÛrio de Processos de NegÛcio
+                                        RPN - Reposit√≥rio de Processos de Neg√≥cio
                                         <ul style="font-size: small" class="text-left">
                                             <li>Linguagem PHP/LARAVEL</li>
                                             <li>POSTGRE</li>
@@ -128,7 +128,7 @@
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        SPT - Sistema de Processamento e TransaÁ„o
+                                        SPT - Sistema de Processamento e Transa√ß√£o
                                     </div>
                                     <div class="project-name">
                                         Sistema CRECI-ES.
@@ -214,7 +214,7 @@
                                             <li>Angular</li>
                                             <li>HTML5</li>
                                             <li>Template</li>
-                                            <li>Arquitetura Orientada a serviÁos</li>
+                                            <li>Arquitetura Orientada a servi√ßos</li>
                                             <li>Sem uso de Barramentos</li>
 
                                         </ul>
@@ -228,7 +228,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto text-center">
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#experiencias">ExperiÍncias</a>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#experiencias">Experi√™ncias</a>
                     </div>
                 </div>
             </div>
@@ -242,38 +242,38 @@
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
                             <h3 class="mb-4">Desenvolvedor PHP </h3>
-                            <p class="text-muted mb-2">CRECI -  Conselho Regional De Corretores De ImÛveis 13 Regi„o </p>
+                            <p class="text-muted mb-2">CRECI -  Conselho Regional De Corretores De Im√≥veis 13 Regi√£o </p>
                             <p class="text-muted mb-2">SISTEMA SPT CRECI-ES</p>
-                            <p class="text-muted mb-2">DuraÁ„o: 1 ano</p>
+                            <p class="text-muted mb-2">Dura√ß√£o: 1 ano</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Tipo:Est·gio</li>
-                                <li>Atividades de MigraÁ„o de tela (Java para PHP)</li>
+                                <li>Tipo:Est√°gio</li>
+                                <li>Atividades de Migra√ß√£o de tela (Java para PHP)</li>
                                 <li>Atividades de Infra</li>
-                                <li>ExperiÍncia com Java JSF</li>
+                                <li>Experi√™ncia com Java JSF</li>
                                 <li>Desenvolvimento de funcionalidades</li>
-                                <li>ManutenÁ„o de cÛdigo</li>
+                                <li>Manuten√ß√£o de c√≥digo</li>
                                 <li>Atividades de Suporte no sistema</li>
-                                <li>Atividades de Suporte para usu·rios</li>
+                                <li>Atividades de Suporte para usu√°rios</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-paper-plane text-primary mb-3 sr-icon-2"></i>
-                            <h3 class="mb-4">TÈcnico TI</h3>
-                            <p class="text-muted mb-2">MPF - MinistÈrio P˙blico Federal</p>
-                            <p class="text-muted mb-2">DuraÁ„o: 2 anos</p>
+                            <h3 class="mb-4">T√©cnico TI</h3>
+                            <p class="text-muted mb-2">MPF - Minist√©rio P√∫blico Federal</p>
+                            <p class="text-muted mb-2">Dura√ß√£o: 2 anos</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Tipo:Est·gio</li>
+                                <li>Tipo:Est√°gio</li>
                                 <li>Atividades de suporte</li>
                                 <li>Atividades de Infra</li>
-                                <li>Atendimento ao usu·rio</li>
-                                <li>AssistÍncia remota e ManutenÁ„o preventiva</li>
+                                <li>Atendimento ao usu√°rio</li>
+                                <li>Assist√™ncia remota e Manuten√ß√£o preventiva</li>
                                 <li>Atividades de auditoria(Checklist)</li>
                                 <li>Suporte Presencial e Externo</li>
-                                <li>ManutenÁ„o e ConfiguraÁ„o de rede</li>
-                                <li>ConfiguraÁ„o e instalaÁ„o de aplicativos</li>
-                                <li>ServiÁos de cabeamento</li>
+                                <li>Manuten√ß√£o e Configura√ß√£o de rede</li>
+                                <li>Configura√ß√£o e instala√ß√£o de aplicativos</li>
+                                <li>Servi√ßos de cabeamento</li>
                             </ul>
 
                         </div>
@@ -282,13 +282,13 @@
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
                             <h3 class="mb-4">Desenvolvedor BackEnd - Java</h3>
-                            <p class="text-muted mb-2">CONEXOS Sistemas e SoluÁıes LTDA.</p>
+                            <p class="text-muted mb-2">CONEXOS Sistemas e Solu√ß√µes LTDA.</p>
                             <p class="text-muted mb-2">SISTEMA CONEXOS ERP WEB.</p>
-                            <p class="text-muted mb-2">DuraÁ„o: 2 meses</p>
+                            <p class="text-muted mb-2">Dura√ß√£o: 2 meses</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Tipo:Est·gio</li>
-                                <li>Atividades de migraÁ„o de tela (Delphi para Java EE)</li>
-                                <li>Atividades de manutenÁ„o de cÛdigo</li>
+                                <li>Tipo:Est√°gio</li>
+                                <li>Atividades de migra√ß√£o de tela (Delphi para Java EE)</li>
+                                <li>Atividades de manuten√ß√£o de c√≥digo</li>
                                 <li>Atividades de desenvolvimento backend em geral</li>
 
                             </ul>
@@ -298,15 +298,15 @@
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
-                            <h3 class="mb-4">Monitor de Inform·tica/LaboratÛtio </h3>
+                            <h3 class="mb-4">Monitor de Inform√°tica/Laborat√≥tio </h3>
 
-                            <p class="text-muted mb-2">SEDU - Secretaria de EducaÁ„o do EspÌrito Santo</p>
-                            <p class="text-muted mb-2">DuraÁ„o: 1,4 anos</p>
+                            <p class="text-muted mb-2">SEDU - Secretaria de Educa√ß√£o do Esp√≠rito Santo</p>
+                            <p class="text-muted mb-2">Dura√ß√£o: 1,4 anos</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Tipo:Est·gio</li>
+                                <li>Tipo:Est√°gio</li>
                                 <li>Suporte a professores e alunos</li>
-                                <li>Monitoramento das atividades dos alunos no laboratÛrio</li>
-                                <li>Controle do uso do laboratÛrio pelos alunos</li>
+                                <li>Monitoramento das atividades dos alunos no laborat√≥rio</li>
+                                <li>Controle do uso do laborat√≥rio pelos alunos</li>
                                 <li>Atividades de Suporte em geral</li>
                             </ul>
                         </div>
@@ -315,15 +315,28 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
-                        <h3 class="mb-4"> Analista Desenvolvedor  </h3>
+                        <h3 class="mb-4"> Analista Desenvolvedor </h3>
 
                         <p class="text-muted mb-2">Phidelis Tecnologia</p>
                         <p class="text-muted mb-2">Atualmente</p>
                         <ul class="text-muted mb-0 text-left" style="font-size: small">
                             <li>
-                                Atividades de desenvolvimento em C#
+                                Tecnologias
                                 <ul>
-                                    <li>ResoluÁ„o de bugs</li>
+                                    <li>Entity Framework MVC .NET 3.*</li>
+                                    <li>Web Forms .NET 2.*</li>
+                                    <li>Linguagem C#</li>
+                                    <li>SQL Server</li>
+                                    <li>Visual St√∫dio 2019</li>
+                                    <li>
+                                    Atividades
+                                        <ul>
+                                            <li>Migra√ß√£o de Telas</li>
+                                            <li>Melhorias</li>
+                                            <li>Manuten√ß√£o</li>
+                                            <li>Atividades de desenvolvimento em geral</li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </li>
                         </ul>
@@ -335,7 +348,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#tecnologias">Tecnologias que tenho algum conhecimento/ExperiÍncia</a>
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#tecnologias">Tecnologias que tenho algum conhecimento/Experi√™ncia</a>
                 </div>
             </div>
         </div>
@@ -353,8 +366,8 @@
                             <li>Spring Tool Suit/Netbeans/Eclipse/Intellij</li>
                             <li>Maven 3.0</li>
                             <li>Heroku - Ambiente de deploying</li>
-                            <li>Travis-CI - IntegraÁ„o ContÌnua</li>
-                            <li>Sonarqube - An·lise de qualidade do cÛdigo</li>
+                            <li>Travis-CI - Integra√ß√£o Cont√≠nua</li>
+                            <li>Sonarqube - An√°lise de qualidade do c√≥digo</li>
                             <li>GitKraquen - Controle de Versionamento</li>
                             <li>Mysql/Postgres/Oracle</li>
                         </ul>
@@ -369,7 +382,7 @@
                             <li>PHPStorm</li>
                             <li>Composer</li>
                             <li>Heroku</li>
-                            <li>Travis-CI - IntegraÁ„o contÌnua</li>
+                            <li>Travis-CI - Integra√ß√£o cont√≠nua</li>
                             <li>Vagrant</li>
                             <li>GitKraquen</li>
                             <li>Mysql/Postgres/Oracle</li>
@@ -437,7 +450,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#curriculo">Curriculo e outras InformaÁıes</a>
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#curriculo">Curriculo e outras Informa√ß√µes</a>
                 </div>
             </div>
         </div>
@@ -445,9 +458,9 @@
 
     <section class="bg-dark text-white" id="curriculo">
         <div class="container text-center">
-            <h2 class="mb-4">CurrÌculo e outros</h2>
+            <h2 class="mb-4">Curr√≠culo e outros</h2>
             <a class="btn btn-light btn-xl sr-button"
-               href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">CurrÌculo Programador</a>
+               href="https://drive.google.com/file/d/1G3oOQClo1WlDJFVNziexglGi9qR2xaWd/view?usp=sharing">Curr√≠culo Programador</a>
             <a class="btn btn-light btn-xl sr-button"
                href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
         </div>
@@ -456,7 +469,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#github">Github e AplicaÁıes</a>
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#github">Github e Aplica√ß√µes</a>
                 </div>
             </div>
         </div>
@@ -466,7 +479,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#page-top">InÌcio</a>
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#page-top">In√≠cio</a>
                 </div>
             </div>
         </div>
@@ -475,11 +488,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto text-justify">
-                    <h2 class="section-heading text-center">Github e Link das aplicaÁıes</h2>
+                    <h2 class="section-heading text-center">Github e Link das aplica√ß√µes</h2>
                     <hr class="my-4">
-                    <p class="mb-5">Alguns projetos como RPN, CRECI-ES s„o privados e portanto o cÛdigo de ambos n„o
-                        poder„o ser analisados e o do Conexos ERP Web È de propriedade da Conexos Ltda SoluÁıes. No entanto,
-                        poderei mostrar o cÛdigo do fast-food e o link das aplicaÁıes (Com exceÁ„o do ERP CONEXOS Web) onde
+                    <p class="mb-5">Alguns projetos como RPN, CRECI-ES s√£o privados e portanto o c√≥digo de ambos n√£o
+                        poder√£o ser analisados e o do Conexos ERP Web √© de propriedade da Conexos Ltda Solu√ß√µes. No entanto,
+                        poderei mostrar o c√≥digo do fast-food e o link das aplica√ß√µes (Com exce√ß√£o do ERP CONEXOS Web) onde
                         eu sou colaborador atualmente, segue os links abaixo</p>
                 </div>
             </div>
@@ -507,14 +520,14 @@
                 <div class="col-lg-4 mr-auto text-center">
                     <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
                     <p>
-                        <a href="https://github.com/jeancarlos2015/projeto_portfolio">PortfÛlio</a>
+                        <a href="https://github.com/jeancarlos2015/projeto_portfolio">Portf√≥lio</a>
                     </p>
                 </div>
 
                 <div class="col-lg-4 mr-auto text-center">
                     <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                     <p>
-                        <a href="https://portfolio2019.herokuapp.com/">PortfÛlio</a>
+                        <a href="https://portfolio2019.herokuapp.com/">Portf√≥lio</a>
                     </p>
                 </div>
 
@@ -570,7 +583,7 @@
                 </div>
                 <div class="modal-body">
                     <p>
-                        Ao acessar essa aplicaÁ„o haver· situaÁıes em que haja um erro, isto acontece por que essa aplicaÁ„o possui uma arquitetura diferente das outras, È uma aplicaÁ„o cuja arquitetura È orientada microserviÁos, isto quer dizer que essa aplicaÁ„o depende de outras API'S para funcionar e quando uma das API's demora a responder È prov·vel que a aplicaÁ„o responda na forma de um erro, neste caso basta atualizar a p·gina que a mesma vai funcionar normalmente. Para acessar a aplicaÁ„o clique
+                        Ao acessar essa aplica√ß√£o haver√° situa√ß√µes em que haja um erro, isto acontece por que essa aplica√ß√£o possui uma arquitetura diferente das outras, √© uma aplica√ß√£o cuja arquitetura √© orientada microservi√ßos, isto quer dizer que essa aplica√ß√£o depende de outras API'S para funcionar e quando uma das API's demora a responder √© prov√°vel que a aplica√ß√£o responda na forma de um erro, neste caso basta atualizar a p√°gina que a mesma vai funcionar normalmente. Para acessar a aplica√ß√£o clique
                         <a href="https://interfacegerentefornecedor.herokuapp.com/login">  Aqui.</a>
                         <br>
                     </p>
@@ -588,7 +601,7 @@
                 <div class="modal-body">
                     <img class="d-flex mr-3 rounded-circle" src="resources/portfolio/img/portfolio/fullsize/9.jpg" alt=""
                          width="150">
-                    <p>Oi!, meu nome È Jean, seja bem vindo!!!</p>
+                    <p>Oi!, meu nome √© Jean, seja bem vindo!!!</p>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                     </div>
@@ -601,7 +614,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-body">
-                    <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acess·-la mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
+                    <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acess√°-la mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                     </div>

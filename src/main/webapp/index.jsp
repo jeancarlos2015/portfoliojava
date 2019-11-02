@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -331,9 +333,9 @@
                                     <li>
                                     Atividades
                                         <ul>
-                                            <li>Migração de Telas</li>
+                                            <li>Migracao de Telas</li>
                                             <li>Melhorias</li>
-                                            <li>Manutenção</li>
+                                            <li>Manutencao</li>
                                             <li>Atividades de desenvolvimento em geral</li>
                                         </ul>
                                     </li>

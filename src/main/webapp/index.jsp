@@ -515,7 +515,22 @@
 
             </div>
 
+			<div class="row">
 
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="http://prototiposistema2020.gearhostpreview.com/Conta/Login">Controle de Estoque</a>
+                    </p>
+                </div>
+                <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a onclick="alertar_controle_estoque()" style="cursor:pointer;" class="text-danger">Controle De Estoque</a>
+                    </p>
+                </div>
+            </div>
+			
             <div class="row">
                 <div class="col-lg-4 mr-auto text-center">
                     <i class="fa fa-github fa-3x mb-3 sr-contact-2"></i>
@@ -614,7 +629,20 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-body">
-                    <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-la mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
+                    <p>Este projeto de interface ainda em desenvolvimento!!, mas caso queira acessá-lo mesmo assim, sinta-se a vontade, clicando <a href="https://interfacefastfood.herokuapp.com/index">Aqui</a></p>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+	 <div class="modal fade" id="modal-estoque">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <p>Este projeto ainda em desenvolvimento!!, mas caso queira acessá-lo mesmo assim, sinta-se a vontade, clicando <a href="http://prototiposistema2020.gearhostpreview.com/Conta/Login">Aqui</a></p>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                     </div>
@@ -639,6 +667,9 @@
                             }
                             function alertar_luto() {
                                 $('#modal-luto').modal('show');
+                            }
+							function alertar_controle_estoque() {
+                                $('#modal-estoque').modal('show');
                             }
                             $('#modal-apresentacao').modal('show');
     </script>

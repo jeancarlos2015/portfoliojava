@@ -149,33 +149,33 @@
                         </a>
                     </div>
                     
-                    <!--
+                    
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/6.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/6.jpg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        Alimentos
+                                        Controle de Estoque
                                     </div>
                                     <div class="project-name">
-                                        Fast Food
+                                       Controle de Estoque - Em Desenvolvimento
                                         <ul style="font-size: small" class="text-left">
-                                            <li>Linguagem JAVA/Spring</li>
-                                            <li>POSTGRE</li>
+                                            <li>Linguagem C#/.NET</li>
+                                            <li>SQL SERVER</li>
                                             <li>Java Script/Angular</li>
                                             <li>HTML5</li>
                                             <li>Bootstrap</li>
-                                            <li>MVC-5 Camadas</li>
-                                            <li>Netbeans</li>
-                                            <li>Maven 3.0</li>
+                                            <li>MVC-3 Camadas</li>
+                                            <li>Visual Stúdio</li>
+                                            <li>Nuget</li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    -->
+                    
                     
                     
                     <div class="col-lg-4 col-sm-6">

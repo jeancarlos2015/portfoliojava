@@ -151,8 +151,8 @@
                     
                     
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/6.jpg">
-                            <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/6.jpg" alt="">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/10.jpg">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/10.jpg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">

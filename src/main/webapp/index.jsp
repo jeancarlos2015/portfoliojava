@@ -176,30 +176,6 @@
                         </a>
                     </div>
                     
-                    
-                    
-                    <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/7.jpg">
-                            <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/7.jpg" alt="">
-                            <div class="portfolio-box-caption">
-                                <div class="portfolio-box-caption-content">
-                                    <div class="project-category text-faded">
-                                        ERP
-                                    </div>
-                                    <div class="project-name">
-                                        CONEXOS ERP WEB
-                                        <ul style="font-size: small" class="text-left">
-                                            <li>Linguagem JAVA/Spring</li>
-                                            <li>Oracle</li>
-                                            <li>MVC</li>
-                                            <li>Eclipse</li>
-                                            <li>Maven 3.0</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/8.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/8.jpg" alt="">
@@ -236,7 +212,39 @@
             </div>
 
         </section>
+<div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
+                        <h3 class="mb-4"> Analista Desenvolvedor </h3>
 
+                        <p class="text-muted mb-2">Phidélis Tecnologia</p>
+                        <p class="text-muted mb-2">Regime: CLT</p>
+                        <p class="text-muted mb-2">03/2019 - 02/2020 (11 meses)</p>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>
+                                Tecnologias
+                                <ul>
+                                    <li>Framework MVC .NET 3.*</li>
+                                    <li>Entity Framework</li>
+                                    <li>Web Forms .NET 2.*</li>
+                                    <li>Linguagem C#</li>
+                                    <li>SQL Server</li>
+                                    <li>Management Studio SQL Server</li>
+                                    <li>Visual Stúdio 2019</li>
+                                    <li>
+                                    Atividades
+                                        <ul>
+                                            <li>Migração de Telas</li>
+                                            <li>Melhorias</li>
+                                            <li>Manutenção</li>
+                                            <li>Atividades de desenvolvimento em geral</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
         <section id="experiencias">
             <div class="container">
                 <div class="row">
@@ -246,9 +254,9 @@
                             <h3 class="mb-4">Desenvolvedor PHP </h3>
                             <p class="text-muted mb-2">CRECI -  Conselho Regional De Corretores De Imóveis 13 Região </p>
                             <p class="text-muted mb-2">SISTEMA SPT CRECI-ES</p>
-                            <p class="text-muted mb-2">Duração: 1 ano</p>
+                            <p class="text-muted mb-2">03/2018 - 03/2019 (1 Ano)</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Tipo:Estágio</li>
+                                <li>Regime:Estágio</li>
                                 <li>Atividades de Migração de tela (Java para PHP)</li>
                                 <li>Atividades de Infra</li>
                                 <li>Experiência com Java JSF</li>
@@ -264,9 +272,9 @@
                             <i class="fas fa-4x fa-paper-plane text-primary mb-3 sr-icon-2"></i>
                             <h3 class="mb-4">Técnico TI</h3>
                             <p class="text-muted mb-2">MPF - Ministério Público Federal</p>
-                            <p class="text-muted mb-2">Duração: 2 anos</p>
+                            <p class="text-muted mb-2">04/2016 - 04/2018 (2 Anos)</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
-                                <li>Tipo:Estágio</li>
+                                <li>Regime:Estágio</li>
                                 <li>Atividades de suporte</li>
                                 <li>Atividades de Infra</li>
                                 <li>Atendimento ao usuário</li>
@@ -286,7 +294,7 @@
                             <h3 class="mb-4">Desenvolvedor BackEnd - Java</h3>
                             <p class="text-muted mb-2">CONEXOS Sistemas e Soluções LTDA.</p>
                             <p class="text-muted mb-2">SISTEMA CONEXOS ERP WEB.</p>
-                            <p class="text-muted mb-2">Duração: 2 meses</p>
+                            <p class="text-muted mb-2">01/2018 - 03/2018 (2 meses)</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
                                 <li>Tipo:Estágio</li>
                                 <li>Atividades de migração de tela (Delphi para Java EE)</li>
@@ -303,7 +311,7 @@
                             <h3 class="mb-4">Monitor de Informática/Laboratótio </h3>
 
                             <p class="text-muted mb-2">SEDU - Secretaria de Educação do Espírito Santo</p>
-                            <p class="text-muted mb-2">Duração: 1,4 anos</p>
+                            <p class="text-muted mb-2">08/2009 - 12/2010 (1,3 anos)</p>
                             <ul class="text-muted mb-0 text-left" style="font-size: small">
                                 <li>Tipo:Estágio</li>
                                 <li>Suporte a professores e alunos</li>
@@ -314,36 +322,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto">
-                        <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
-                        <h3 class="mb-4"> Analista Desenvolvedor </h3>
-
-                        <p class="text-muted mb-2">Phidélis Tecnologia</p>
-                        <p class="text-muted mb-2">Atualmente</p>
-                        <ul class="text-muted mb-0 text-left" style="font-size: small">
-                            <li>
-                                Tecnologias
-                                <ul>
-                                    <li>Entity Framework MVC .NET 3.*</li>
-                                    <li>Web Forms .NET 2.*</li>
-                                    <li>Linguagem C#</li>
-                                    <li>SQL Server</li>
-                                    <li>Visual Stúdio 2019</li>
-                                    <li>
-                                    Atividades
-                                        <ul>
-                                            <li>Migração de Telas</li>
-                                            <li>Melhorias</li>
-                                            <li>Manutenção</li>
-                                            <li>Atividades de desenvolvimento em geral</li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                
             </div>
         </div>
         <br>
@@ -463,6 +442,10 @@
             <h2 class="mb-4">Currículo e outros</h2>
             <a class="btn btn-light btn-xl sr-button"
                href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
+			   <a class="btn btn-light btn-xl sr-button"
+               href="https://drive.google.com/file/d/1bvMshl_KzI7WxX6JTnwKN2SUjPFOIOod/view?usp=sharing">Curriculo</a>
+			   <a class="btn btn-light btn-xl sr-button"
+               href="https://www.facebook.com/jean412">Facebook</a>
         </div>
         <br>
         <br>
@@ -550,11 +533,20 @@
 
 
             <div class="row">
+<div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="http://prototiposistema.herokuapp.com/">Prototipo RPN</a>
+                    </p>
 
+
+                </div>
+				
+				
                 <div class="col-lg-4 mr-auto text-center">
                     <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                     <p>
-                        <a href="http://prototiposistema.herokuapp.com/">Sistema RPN</a>
+                        <a href="http://prototiposistema.herokuapp.com/">Homologacao RPN</a>
                     </p>
 
 

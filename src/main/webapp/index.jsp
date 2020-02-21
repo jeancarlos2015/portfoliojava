@@ -591,18 +591,25 @@
             </div>
         </div>
     </div>
-
     <div class="modal fade" id="modal-apresentacao">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-body">
-                    <img class="d-flex mr-3 rounded-circle" src="resources/portfolio/img/portfolio/fullsize/9.jpg" alt=""
-                         width="150">
-                    <p>Oi!, meu nome é Jean, seja bem vindo!!!</p>
-                    <div class="modal-footer">
+                 
+                    
+                    <table>
+                      <tr>
+                        <td><img class="d-flex mr-3 rounded-circle"  width="150" src='resources/portfolio/img/portfolio/fullsize/9.jpg'/></td>
+
+                        <td>        <p>Oi!, meu nome é Jean, seja bem vindo!</p>
+                    </td> 
+                      </tr>
+
+                    </table>
+                </div>
+                <div class="modal-footer">
                         <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
                     </div>
-                </div>
             </div>
         </div>
     </div>

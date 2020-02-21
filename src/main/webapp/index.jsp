@@ -79,6 +79,7 @@
                                         <li>Conhecimentos básicos de TDD e BDD</li>
                                         <li>Conhecimentos básicos de Arquitetura Orientada à microserviços</li>
                                         <li>Conhecimentos básicos de Integração Contínua e Testes automatizados</li>
+                                        <li>Todos os projetos java e php foram desenvolvidos utilizando ferramentas de integração contínua</li>
                                     </ul>
                                 </li>
 
@@ -541,17 +542,6 @@
 
 
                 </div>
-				
-				
-                <div class="col-lg-4 mr-auto text-center">
-                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
-                    <p>
-                        <a href="http://prototiposistema.herokuapp.com/">Homologacao RPN</a>
-                    </p>
-
-
-                </div>
-
                 <div class="col-lg-4 mr-auto text-center">
                     <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                     <p>

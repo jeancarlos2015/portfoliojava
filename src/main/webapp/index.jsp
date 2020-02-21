@@ -213,15 +213,18 @@
             </div>
 
         </section>
-<div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box mt-5 mx-auto">
-                        <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
-                        <h3 class="mb-4"> Analista Desenvolvedor </h3>
 
-                        <p class="text-muted mb-2">Phidélis Tecnologia</p>
+        <section id="experiencias">
+            <div class="container">
+                <div class="row">
+                       <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box mt-5 mx-auto">
+                            <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
+                            <h3 class="mb-4">Analista Desenvolvedor </h3>
+                          <p class="text-muted mb-2">Phidélis Tecnologia</p>
                         <p class="text-muted mb-2">Regime: CLT</p>
                         <p class="text-muted mb-2">03/2019 - 02/2020 (11 meses)</p>
-                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                               <ul class="text-muted mb-0 text-left" style="font-size: small">
                             <li>
                                 Tecnologias
                                 <ul>
@@ -244,11 +247,8 @@
                                 </ul>
                             </li>
                         </ul>
+                        </div>
                     </div>
-                </div>
-        <section id="experiencias">
-            <div class="container">
-                <div class="row">
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>

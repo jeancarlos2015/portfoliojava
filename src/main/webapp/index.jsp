@@ -444,7 +444,7 @@
             <a class="btn btn-light btn-xl sr-button"
                href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
 			   <a class="btn btn-light btn-xl sr-button"
-               href="https://drive.google.com/file/d/1bvMshl_KzI7WxX6JTnwKN2SUjPFOIOod/view?usp=sharing">Curriculo</a>
+               href="https://drive.google.com/file/d/1gBJqef6eotcBq3IM68KocTKlH-jO71Jg/view?usp=sharing">Curriculo</a>
 			   <a class="btn btn-light btn-xl sr-button"
                href="https://www.facebook.com/jean412">Facebook</a>
         </div>

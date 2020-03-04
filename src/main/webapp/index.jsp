@@ -99,7 +99,46 @@
         <section class="p-0" id="portfolio">
             <div class="container-fluid p-0">
                 <div class="row no-gutters popup-gallery">
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/20.jpg">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/20.jpg" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Projetos: Portais, Administrativo e Financeiro
+                                    </div>
+                                    <div class="project-name">
+                                        
+                                        <ul style="font-size: small" class="text-left">
+                                            <li class="text-center"><strong>Faculdades</strong></li>
+                                            <li>FABRA</li>
+                                            <li>PIOXII</li>
+                                            <li>SANTA ADAME</li>
+                                            <li>SANTA RITA</li>
+                                            <li>IESPLAN</li>
+                                            <li>UNIEST</li>
 
+                                            <li class="text-center"><strong>Colégios</strong></li>
+                                            <li>MONTEIRO LOBATO</li>
+                                            <li>SAGRADO</li>
+                                            <li>PRIMEIRO MUNDO</li>
+                                            <li>CEIC</li>
+                                        </ul>
+                                        <ul style="font-size: small" class="text-left">
+                                            <li>Linguagem PHP/LARAVEL</li>
+                                            <li>POSTGRE</li>
+                                            <li>Java Script/Jquery</li>
+                                            <li>HTML5</li>
+                                            <li>Bootstrap</li>
+                                            <li>MVC</li>
+                                            <li>Composer</li>
+                                            <li>Template</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/4.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/4.jpg" alt="">

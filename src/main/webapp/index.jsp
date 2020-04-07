@@ -107,7 +107,7 @@
                                     <div class="project-category text-faded">
                                         Projetos: Portais, Administrativo e Financeiro
                                     </div>
-                                    <div class="project-name" style="font-size:9px;">
+                                    <div class="project-name" style="font-size:12px;">
                                         <table style="border:0px;" class="text-left">
 										<thead>
 										<th>Faculdades</th>
@@ -502,8 +502,7 @@
             <h2 class="mb-4">Currículo e outros</h2>
             <a class="btn btn-light btn-xl sr-button"
                href="https://www.linkedin.com/in/jeancarlospenas7b668285/">Linkedin</a>
-			   <a class="btn btn-light btn-xl sr-button"
-               href="https://drive.google.com/file/d/1gBJqef6eotcBq3IM68KocTKlH-jO71Jg/view?usp=sharing">Curriculo</a>
+			   <!--<a class="btn btn-light btn-xl sr-button" href="https://drive.google.com/file/d/1gBJqef6eotcBq3IM68KocTKlH-jO71Jg/view?usp=sharing">Curriculo</a> -->
 			   <a class="btn btn-light btn-xl sr-button"
                href="https://www.facebook.com/jean412">Facebook</a>
         </div>

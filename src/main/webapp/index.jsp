@@ -107,31 +107,22 @@
                                     <div class="project-category text-faded">
                                         Projetos: Portais, Administrativo e Financeiro
                                     </div>
-                                    <div class="project-name">
-                                        
-                                        <ul style="font-size: small" class="text-left">
-                                            <li class="text-center"><strong>Faculdades</strong></li>
-                                            <li>FABRA</li>
-                                            <li>PIOXII</li>
-                                            <li>SANTA ADAME</li>
-                                            <li>SANTA RITA</li>
-                                            <li>IESPLAN</li>
-                                            <li>UNIEST</li>
-
-                                            <li class="text-center"><strong>Colégios</strong></li>
-                                            <li>MONTEIRO LOBATO</li>
-                                            <li>SAGRADO</li>
-                                            <li>PRIMEIRO MUNDO</li>
-                                            <li>CEIC</li>
-                                        </ul>
-                                        <ul style="font-size: small" class="text-left">
-                                            <li>Linguagem c#/.NET / MVC e Web Forms</li>
-                                            <li>SQL SERVER</li>
-                                            <li>Java Script/Jquery</li>
-                                            <li>HTML5</li>
-                                            <li>Bootstrap</li>
-                                            <li>Nuget</li>
-                                        </ul>
+                                    <div class="project-name" style="font-size:9px;">
+                                        <table style="border:0px;" class="text-left">
+										<thead>
+										<th>Faculdades</th>
+										<th>Colégios</th>
+										<th>Tecnologias</th>
+										</thead>
+										<tbody>
+										<tr><td>*FABRA</td><td>*MONTEIRO LOBATO</td><td>*Linguagem c#/.NET</td></tr>
+										<tr><td>*PIOXII</td><td>*SAGRADO</td><td>*MVC e Web Forms</td></tr>
+										<tr><td>*FABRA</td><td>*PRIMEIRO MUNDO</td><td>*SQL SERVER</td></tr>
+										<tr><td>*SANTA ADAME</td><td>*CEIC</td><td>*HTML5 e Bootstrap</td></tr>
+										<tr><td>*IESPLAN</td><td>-</td><td>*Nvelocity, API</td></tr>
+										<tr><td>*UNIEST</td><td>-</td><td>-</td></tr>
+										</tbody>
+										</table>
                                     </div>
                                 </div>
                             </div>

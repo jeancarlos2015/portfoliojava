@@ -445,6 +445,19 @@
                         </ul>
                     </div>
                 </div>
+				   <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box mt-5 mx-auto">
+                        <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
+                        <h3 class="mb-4">Stack Angular</h3>
+                        <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>Framework Angular 8 / TS</li>
+                            <li>VSCode</li>
+                            <li>Framework PrimeNG</li>
+                            <li>HTML5, CSS e JS</li>
+                            
+                        </ul>
+                    </div>
+                </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>

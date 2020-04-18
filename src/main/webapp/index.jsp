@@ -100,12 +100,12 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters popup-gallery">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/20.jpg">
-                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/20.jpg" alt="">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/11.jpg">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/11.jpg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        Projetos: Portais, Administrativo e Financeiro
+                                        Desenvolvimento e manutenção nos seguintes projetos:
                                     </div>
                                     <div class="project-name" style="font-size:12px;">
                                         <table style="border:0px;" class="text-left">
@@ -128,13 +128,38 @@
                             </div>
                         </a>
                     </div>
+					<div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/12.jpg">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/12.jpg" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Participação em projetos da Cesan:
+                                    </div>
+                                    <div class="project-name" style="font-size:12px;">
+                                        <table style="border:0px;" class="text-left">
+										<thead>
+										<th>Tecnologias Front/Back End</th>
+										</thead>
+										<tbody>
+										<tr><td>Spring Rest Java</td></tr>
+										<tr><td>Arquitetura MS e MVC</td></tr>
+										<tr><td>Angular 8.1 orientado a componentes</td></tr>
+										<tr><td>TypeScript</td></tr>
+										</tbody>
+										</table>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/4.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/4.jpg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        Acadêmico
+                                        Sistema protótipo de propósito acadêmico
                                     </div>
                                     <div class="project-name">
                                         RPN - Repositório de Processos de Negócio
@@ -159,7 +184,7 @@
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        SPT - Sistema de Processamento e Transação
+                                        Participação no desenvolvimento e manutenção de projetos do CRECI-ES:
                                     </div>
                                     <div class="project-name">
                                         Sistema CRECI-ES.
@@ -185,7 +210,7 @@
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        Controle de Estoque
+                                        Controle de Estoque (Em desenvolvimento):
                                     </div>
                                     <div class="project-name">
                                        Controle de Estoque - Em Desenvolvimento
@@ -211,7 +236,7 @@
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-name">
-                                        FAST FOOD
+                                        FAST FOOD (Em desenvolvimento)
                                         <ul style="font-size: small" class="text-left">
                                             <li>Linguagem JAVA/Spring</li>
                                             <li>MVC</li>

@@ -295,6 +295,7 @@
                                             <li>Melhorias</li>
                                             <li>Manutenção</li>
                                             <li>Atividades de Front/End (TypeScript/Angular)</li>
+                                            <li>SCRUM</li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -327,6 +328,7 @@
                                             <li>Melhorias</li>
                                             <li>Manutenção</li>
                                             <li>Atividades de desenvolvimento em geral</li>
+                                            <li>KANBAN</li>
                                         </ul>
                                     </li>
                                 </ul>

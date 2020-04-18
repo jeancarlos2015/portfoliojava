@@ -146,6 +146,7 @@
 										<tr><td>*Arquitetura MS e MVC</td></tr>
 										<tr><td>*Angular 8.1 orientado a componentes</td></tr>
 										<tr><td>*TypeScript</td></tr>
+										<tr><td>*MSSQL</td></tr>
 										</tbody>
 										</table>
                                     </div>

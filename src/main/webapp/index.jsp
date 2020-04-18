@@ -388,6 +388,7 @@
                                 <li>Atividades de migração de tela (Delphi para Java EE)</li>
                                 <li>Atividades de manutenção de código</li>
                                 <li>Atividades de desenvolvimento backend em geral</li>
+                                <li>SCRUM</li>
 
                             </ul>
                         </div>

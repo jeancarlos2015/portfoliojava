@@ -142,10 +142,10 @@
 										<th>Tecnologias Front/Back End</th>
 										</thead>
 										<tbody>
-										<tr><td>Spring Rest Java</td></tr>
-										<tr><td>Arquitetura MS e MVC</td></tr>
-										<tr><td>Angular 8.1 orientado a componentes</td></tr>
-										<tr><td>TypeScript</td></tr>
+										<tr><td>*Spring Rest Java</td></tr>
+										<tr><td>*Arquitetura MS e MVC</td></tr>
+										<tr><td>*Angular 8.1 orientado a componentes</td></tr>
+										<tr><td>*TypeScript</td></tr>
 										</tbody>
 										</table>
                                     </div>

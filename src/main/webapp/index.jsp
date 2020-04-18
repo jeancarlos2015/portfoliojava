@@ -134,7 +134,7 @@
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">
-                                        Participação em projetos da Cesan:
+                                        Participação e desenvolvimento em projetos da Cesan:
                                     </div>
                                     <div class="project-name" style="font-size:12px;">
                                         <table style="border:0px;" class="text-left">

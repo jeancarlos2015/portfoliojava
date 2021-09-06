@@ -99,6 +99,32 @@
         <section class="p-0" id="portfolio">
             <div class="container-fluid p-0">
                 <div class="row no-gutters popup-gallery">
+				<div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/21.png">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/21.png" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Protótipo RPN - Angular/TS:
+                                    </div>
+                                    <div class="project-name" style="font-size:12px;">
+                                        <table style="border:0px;" class="text-left">
+										<thead>
+										<th>Tecnologias</th>
+										</thead>
+										<tbody>
+										<tr><td>Angular +11</td></tr>
+										<tr><td>TypeScript</td></tr>
+										<tr><td>Auth Guard</td></tr>
+										<tr><td>Persistence Service</td></tr>
+										<tr><td>Controle de Rotas</td></tr>
+										</tbody>
+										</table>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/11.jpg">
                             <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/11.jpg" alt="">

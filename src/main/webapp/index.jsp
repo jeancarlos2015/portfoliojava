@@ -100,8 +100,8 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters popup-gallery">
 				<div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/21.png">
-                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/21.png" alt="">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/13.png">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/thumbnails/13.png" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-category text-faded">

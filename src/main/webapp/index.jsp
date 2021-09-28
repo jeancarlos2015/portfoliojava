@@ -303,7 +303,8 @@
                             <h3 class="mb-4">Analista Desenvolvedor PL II</h3>
                           <p class="text-muted mb-2">VixSystem</p>
                         <p class="text-muted mb-2">Regime: CLT</p>
-                        <p class="text-muted mb-2">03/2020 - Atualmente</p>
+						<p class="text-muted mb-2">03/2020 - 09/2021 - Analista Desenvolvedor PL I</p>
+                        <p class="text-muted mb-2">09/2021 - Atuamente</p>
                                <ul class="text-muted mb-0 text-left" style="font-size: small">
                             <li>
                                 Tecnologias

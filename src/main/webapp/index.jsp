@@ -300,7 +300,7 @@
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
-                            <h3 class="mb-4">Desenvolvedor de Software PL Angular/TS</h3>
+                            <h3 class="mb-4">Analista Desenvolvedor de Software PL II Angular/TS</h3>
                           <p class="text-muted mb-2">VixSystem</p>
                         <p class="text-muted mb-2">Regime: CLT</p>
                         <p class="text-muted mb-2">03/2020 - Atualmente</p>
@@ -333,7 +333,7 @@
                        <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
-                            <h3 class="mb-4">Analista Desenvolvedor </h3>
+                            <h3 class="mb-4">Analista Desenvolvedor JR III </h3>
                           <p class="text-muted mb-2">Phidélis Tecnologia</p>
                         <p class="text-muted mb-2">Regime: CLT</p>
                         <p class="text-muted mb-2">03/2019 - 02/2020 (11 meses e 14 dias)</p>

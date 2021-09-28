@@ -728,7 +728,7 @@
                       <tr>
                         <td><img class="d-flex mr-3 rounded-circle"  width="150" src='resources/portfolio/img/portfolio/fullsize/9.jpg'/></td>
 
-                        <td>        <p>Oi!, meu nome é Jean, seja bem vindo!</p>
+                        <td>        <p>Oi! Meu nome é Jean. Seja bem vindo!</p>
                     </td> 
                       </tr>
 

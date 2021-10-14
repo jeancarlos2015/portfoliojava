@@ -670,6 +670,12 @@
 
 
                 </div>
+		    <div class="col-lg-4 mr-auto text-center">
+                    <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
+                    <p>
+                        <a href="https://jogo-tabuleiro-dama-1avtx2syz-jogo-tabuleiro-dama.vercel.app">Jogo de Dama (Em desenvolvimento)</a>
+                    </p>
+                </div>
                 <div class="col-lg-4 mr-auto text-center">
                     <i class="fa fa-eye fa-3x mb-3 sr-contact-2"></i>
                     <p>

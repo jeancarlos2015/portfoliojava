@@ -282,6 +282,24 @@
                             </div>
                         </a>
                     </div>
+			
+			<div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="https://jogo-tabuleiro-dama-build-six.vercel.app">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/14.png" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-name">
+                                        Jogo de Dama (Em desenvolvimento)
+                                        <ul style="font-size: small" class="text-left">
+                                            <li>Angular ^12</li>
+                                            <li>TypeScript</li>
+                      
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
             <div class="container">
@@ -627,6 +645,7 @@
 
             </div>
 
+		
 			<div class="row">
 
                 <div class="col-lg-4 mr-auto text-center">

@@ -479,13 +479,13 @@
                         <h3 class="mb-4">Stack Java</h3>
                         <ul class="text-muted mb-0 text-left" style="font-size: small">
                             <li>Spring Boot</li>
-                            <li>Spring Tool Suit/Netbeans/Eclipse/Intellij</li>
+                            <li>Spring Tool Suit/Netbeans/Eclipse/Intellij/VS Code</li>
                             <li>Maven 3.0</li>
                             <li>Heroku - Ambiente de deploying</li>
                             <li>Travis-CI - Integração Contínua</li>
                             <li>Sonarqube - Análise de qualidade do código</li>
                             <li>GitKraquen - Controle de Versionamento</li>
-                            <li>Mysql/Postgres/Oracle</li>
+                            <li>Mysql/Postgres/Oracle/MSSQL</li>
                         </ul>
                     </div>
                 </div>

@@ -321,8 +321,41 @@
                             <h3 class="mb-4">Analista Desenvolvedor PL II</h3>
                           <p class="text-muted mb-2">VixSystem</p>
                         <p class="text-muted mb-2">Regime: CLT</p>
-						<p class="text-muted mb-2">03/2020 - 09/2021 - Analista Desenvolvedor PL I</p>
                         <p class="text-muted mb-2">09/2021 - Atuamente</p>
+                               <ul class="text-muted mb-0 text-left" style="font-size: small">
+                            <li>
+                                Tecnologias
+                                <ul>
+                                    <li>Framework Spring</li>
+                                    <li>IOC, Service, Repositories, Junit</li>
+                                    <li>Spring Secutiry</li>
+                                    <li>Linguagem Java/Angular</li>
+                                    <li>SQL Server</li>
+                                    <li>Management Studio SQL Server</li>
+                                    <li>Visual Stúdio 2019</li>
+                                    <li>
+                                    Atividades
+                                        <ul>
+                                            <li>Melhorias</li>
+                                            <li>Manutenção Front/Back</li>
+					    <li>Prototipação de telas</li>
+                                            <li>Atividades de Front/End (TypeScript/Angular)</li>
+                                            <li>SCRUM</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                        </div>
+                    </div>
+					
+					                    <div class="col-lg-3 col-md-6 text-center">
+                        <div class="service-box mt-5 mx-auto">
+                            <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
+                            <h3 class="mb-4">Analista Desenvolvedor PL I</h3>
+                          <p class="text-muted mb-2">VixSystem</p>
+                        <p class="text-muted mb-2">Regime: CLT</p>
+                        <p class="text-muted mb-2">03/2020 - 09/2021 - 1 ano e 6 meses</p>
                                <ul class="text-muted mb-0 text-left" style="font-size: small">
                             <li>
                                 Tecnologias

@@ -230,6 +230,26 @@
                         </a>
                     </div>
                     
+					<div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/24.jpg">
+                            <img class="img-fluid" src="resources/portfolio/img/portfolio/fullsize/24.jpg" alt="">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-category text-faded">
+                                        Participação no desenvolvimento e integração em projetos de terceiro (Freelancer):
+                                    </div>
+                                    <div class="project-name">
+                                        Projeto Nocuda Info.
+                                        <ul style="font-size: small" class="text-left">
+                                            <li>Linguagem Angular/TypeScript</li>
+                                            <li>HTML5</li>
+                                            <li>PrimeNG</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
                     
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="resources/portfolio/img/portfolio/fullsize/10.jpg">

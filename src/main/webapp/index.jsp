@@ -10,7 +10,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Portfólio</title>
+        <title>Jean Carlos - Desenvolvedor PL</title>
 
         <!-- Bootstrap core CSS -->
         <link href="resources/portfolio/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
